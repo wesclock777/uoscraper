@@ -1,0 +1,59 @@
+All data by category
+
+URBN
+Price
+Discounted Price
+Discount %
+SKU
+Star Rating 
+# of Reviews
+
+Free People
+Price
+Discounted Price
+Discount %
+Style No.
+Star Rating 
+# of Reviews
+
+Anthropologie
+Price
+Discounted Price
+Discount %
+Style No.
+Star Rating
+# of Reviews
+
+Terrain
+Price
+Discounted Price
+Discount %
+Style No.
+Star Rating
+# of Reviews
+
+BHLDN
+Price
+Discounted Price
+Discount %
+Style #
+Star Rating
+# of Reviews
+
+American Apparel
+
+J. Crew, Gap Inc.
+
+H&M
+
+Zara
+
+Forever 21
+
+American Eagle
+
+UniQLO
+
+American Eagle
+
+Abercrombie
